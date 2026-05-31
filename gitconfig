@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = manssari@slb.com
+	name = Maryam Alanssari
